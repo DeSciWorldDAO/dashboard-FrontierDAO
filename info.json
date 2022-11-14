@@ -1,1 +1,32 @@
+{
+  "name": "FrontierDAO",
+  "tokenSymbol": null,
+  "DaoOS": "Snapshot",
+  "address": null,
+  "description": "FrontierDAO incubates scientific and engineering innovation using Blockchain, Decentralized Funding and Web3 tooling. Our focus areas are fusion energy, space exploration and climate solutions. We are dedicated to supporting STEAM Ed through NFTs and Web3 enabled learning. ",
+  "whitePaperLink": "https://www.frontierdao.xyz/_files/ugd/6a58eb_273d4e99e2ea4b7fb202a099565ecd49.pdf",
+  "gallery": [
+    {
+      "name": "Intro",
+      "description": "Intro",
+      "mediaUrl": "https://i.imgur.com/qVQQrHn.png",
+      "source": "image",
+      "link": "https://frontier-registry.carrd.co/"
+    }
+  ],
+  "deleted": false,
+  "primaryColor": "#3ab5cd",
+  "twitterHandle": "FrontierDAO",
+  "coingeckoId": null,
+  "snapshotId": null,
+  "logo": "https://i.imgur.com/Nj1ClNR.jpg",
+  "telegramLink": null,
+  "discordLink": null,
+  "website": "https://www.frontierdao.xyz",
+  "tokenDescription": null,
+  "tokenTradeLink": null,
+  "tags": [
+    "Publishing", "Focused Research", "NFTs", "Decentralized Funding", "Data Storage", "Philantropy"
+  ]
+}
 
